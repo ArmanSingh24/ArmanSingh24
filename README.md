@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on My Portfolio<br>🤝 I’m looking to collaborate on Spotify Clone<br>📚 I’m currently preparing for JEE
 
-[![](https://visitcount.itsvg.in/api?id=armansingh24&icon=7&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armansingh24&label=Profile%20views&color=47b6ff&style=flat" alt="armansingh24" /> </p>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arman.singh24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_armansingh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@arman.singh24) 
 
