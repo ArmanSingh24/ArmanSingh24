@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on My Portfolio<br>🤝 I’m looking to collaborate on Spotify Clone<br>📚 I’m currently preparing for JEE
+👨 My name is <b>Arman Singh</b>. I am a 15 y/o Seft-Taught Developer.<br>
+📚 I’m currently preparing for JEE Examination.<br>
+💻 I have passion for web development and editing.<br>
+🔭 I’m currently working on My Portfolio<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armansingh24&label=Profile%20views&color=47b6ff&style=flat" alt="armansingh24" /> </p>
 
@@ -8,7 +11,7 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%9999FF.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=armansingh24&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
